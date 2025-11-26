@@ -8,10 +8,9 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Customer-Group": "X4uV4vkhvBP1zT1S9PtPYG",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base"
+          "AC-View-ID": "49245781-2978-4186-b419-5fa4811ba657",
+          "AC-Source-Locale": "en-US",
+          "AC-Environment-Id": "X4uV4vkhvBP1zT1S9PtPYG"
         }
       },
       "analytics": {
