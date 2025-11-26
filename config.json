@@ -17,16 +17,11 @@
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "X4uV4vkhvBP1zT1S9PtPYG",
-        "store-code": "main_website_store",
-        "store-id": "main_website_store",
-        "store-name": "Default Store View",
-        "store-url": "https://coresaas-subgraph-external:8000/X4uV4vkhvBP1zT1S9PtPYG/",
-        "store-view-code": "default",
-        "store-view-id": "default",
-        "store-view-name": "Default Store View",
-        "website-code": "base",
-        "website-id": "base",
-        "website-name": "Main Website"
+        "locale": "{{LOCALE}}",
+        "store-url": "{{STORE_URL}}",
+        "store-view-currency-code": "{{CURRENCY_CODE}}",
+        "storefront-template": "{{TEMPLATE_TYPE}}",
+        "view-id": "49245781-2978-4186-b419-5fa4811ba657"
       },
       "plugins": {
         "picker": {
